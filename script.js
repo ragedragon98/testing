@@ -54,12 +54,12 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
+    "betul bah?",
+    "Yakinnn??",
+    "uih,jangan bhh",
     "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
+    "cuba pikir bagus-bagus!",
+    "Sedih lah aku ni tau",
     "I will be very sad...",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
